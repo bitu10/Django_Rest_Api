@@ -25,7 +25,7 @@ SECRET_KEY = '&-b!f-ta*b1v45g19g3=3l^r_wi6u(4%f5ltp#k_6zy&ssl9&z'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['b210-first-django-app.herokuapp.com']
 
 REST_FRAMEWORK = {
     'DATETIME_FORMAT': "%b %d %Y %-I:%M%p",
