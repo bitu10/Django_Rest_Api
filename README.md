@@ -28,8 +28,8 @@ python manage.py runserver
 ## API Details
 Live Deployed Project on Heroku-\
 URL Definition - https://b210-first-django-app.herokuapp.com/basic/ \
-HTTP-Method = GET \
-### Sample Response Body- \
+HTTP-Method = GET\
+#### Sample Response Body-\
 ![Screenshot from 2020-07-07 16-32-28](https://user-images.githubusercontent.com/56647211/86771350-b0e63080-c06f-11ea-8fbc-2b3c44a38cb1.png)
 
 
