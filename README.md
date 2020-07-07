@@ -7,6 +7,7 @@ URL Definition - https://b210-first-django-app.herokuapp.com/basic/
 HTTP-Method = GET
 
 Sample Response Body-
+
 {
     "ok": true,
     "members": [
