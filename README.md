@@ -6,6 +6,7 @@ This retuns a nested list of all members along with their every detail.
  - Python
  - Django
  - Django Rest Framework
+ - Django Seed
  
 ## Installation Details 
 #### Clone this repository:
@@ -42,5 +43,5 @@ HTTP-Method = GET
 
 ## Built With
 [Django](https://www.djangoproject.com/) - A Python-based free and open-source web framework \
-[Django REST framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs
+[Django REST framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs \
 [Django Seed](https://github.com/Brobin/django-seed#usage) - A library to populate DB with Dummy Data
