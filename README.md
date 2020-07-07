@@ -1,34 +1,14 @@
 # Django_Rest_Api
-Rest ApI using Django Rest Framework
+A Simple Rest ApI using Django Rest Framework
 
+# API Details
 Live Deployed Project on Heroku-
 URL Definition - https://b210-first-django-app.herokuapp.com/basic/
-
 HTTP-Method = GET
-
 Sample Response Body-
+![Screenshot from 2020-07-07 16-32-28](https://user-images.githubusercontent.com/56647211/86771350-b0e63080-c06f-11ea-8fbc-2b3c44a38cb1.png)
 
-{
-    "ok": true,
-    "members": [
-        {
-            "id": 4,
-            "real_name": "Bitupon",
-            "tz": "Indian/Antananarivo",
-            "activity_periods": [
-                {
-                    "start_time": "Jul 07 2020 6:00AM",
-                    "end_time": "Jul 08 2020 6:00PM"
-                },
-                {
-                    "start_time": "Jul 16 2020 6:00PM",
-                    "end_time": "Jul 23 2020 12:00PM"
-                },
-                {
-                    "start_time": "Jul 14 2020 12:00AM",
-                    "end_time": "Jul 29 2020 6:00PM"
-                }
-            ]
-        }
-    ]
-}
+
+# Built With
+Django - A Python-based free and open-source web framework
+Django REST framework - A powerful and flexible toolkit for building Web APIs
