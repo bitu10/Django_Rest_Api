@@ -28,11 +28,11 @@ python manage.py runserver
 ## API Details
 Live Deployed Project on Heroku-\
 URL Definition - https://b210-first-django-app.herokuapp.com/basic/ \
-HTTP-Method = GET\
-#### Sample Response Body-\
+HTTP-Method = GET
+#### Sample Response Body-
 ![Screenshot from 2020-07-07 16-32-28](https://user-images.githubusercontent.com/56647211/86771350-b0e63080-c06f-11ea-8fbc-2b3c44a38cb1.png)
 
 
 ## Built With
 [Django](https://www.djangoproject.com/) - A Python-based free and open-source web framework \
-[Django REST framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs \
+[Django REST framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs
