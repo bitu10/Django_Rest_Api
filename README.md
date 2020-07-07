@@ -25,7 +25,13 @@ cd full_throtle_labs/
 python3 manage.py migrate
 python3 manage.py runserver
 ```
+#### For populating with DB with Dummy Data
+```
+cd full_throtle_labs/
+python manage.py seed api_basic --number=1
 
+where 1 is the no of records of dummy data to be inserted into each table in the DB
+```
 ## API Details
 Live Deployed Project on Heroku-\
 URL Definition - https://b210-first-django-app.herokuapp.com/basic/ \
@@ -37,3 +43,4 @@ HTTP-Method = GET
 ## Built With
 [Django](https://www.djangoproject.com/) - A Python-based free and open-source web framework \
 [Django REST framework](https://www.django-rest-framework.org/) - A powerful and flexible toolkit for building Web APIs
+[Django Seed](https://github.com/Brobin/django-seed#usage) - A library to populate DB with Dummy Data
