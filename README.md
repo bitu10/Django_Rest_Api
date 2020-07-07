@@ -18,7 +18,7 @@ python3 -m venv venv_name
 source venv_name/bin/activate
 pip install -r requirements.txt
 ```
-### Fire up the Django Server
+#### Fire up the Django Server
 ```
 cd full_throtle_labs/
 python manage.py migrate
