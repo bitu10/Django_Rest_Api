@@ -21,8 +21,8 @@ pip install -r requirements.txt
 #### Fire up the Django Server
 ```
 cd full_throtle_labs/
-python manage.py migrate
-python manage.py runserver
+python3 manage.py migrate
+python3 manage.py runserver
 ```
 
 ## API Details
