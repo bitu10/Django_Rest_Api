@@ -1,6 +1,6 @@
 # Django_Rest_Api
 A Simple Rest API using Django Rest Framework.\
-This retuns a nested list of all members along with their every detail.
+This retuns a nested list of all members along with their details.
 
 ## Dependencies
  - Python
